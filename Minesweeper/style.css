@@ -1,0 +1,31 @@
+.game{
+    height: 300px;
+    width: 300px;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-content: center; */
+    background-color:aquamarine;
+    margin-left: 50px;
+}
+table{
+    border-style: solid;
+}
+td{
+    width:20px;
+    height: 20px;
+    background: black;
+    padding: 5px;
+    
+}
+.box{
+    /* display: hidden; */
+}
+img{
+    height: 20px;
+    width: 20px;
+    margin: 0% 0% 0% 0%;
+}
+body{
+    display:flex;
+    flex-direction: row;
+}
