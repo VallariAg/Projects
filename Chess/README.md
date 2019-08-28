@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Install `CodeBlocks` from [here](http://www.codeblocks.org/downloads/26) or `VS code` from [here]()
+Install `CodeBlocks` from [here](http://www.codeblocks.org/downloads/26) or `VS code` from [here](https://code.visualstudio.com/)
 
 
 ### Installing
@@ -24,7 +24,7 @@ This is a regular two player chess game where all the rules are to be followed.
 * To move a piece, enter x (vertical) and y (horizontal) co-ordinates. First, enter the inital co-ordinates and then the final ones, where you want the specific piece to go.  
 *  Moving pieces against the rules will diaplay an error and a request to re-enter co-ordinates.
 
-![](https://i.imgur.com/RZVDULF.png)
+![Chess Output](https://i.imgur.com/oMdYhio.png)
 
 ## Built With
 
